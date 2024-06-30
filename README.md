@@ -18,7 +18,7 @@
 _Вариант №2: Персона, рабочий, инженер, служащий._
 
 **Сборка проекта:**
-1. Загрузить содержимое папки [Prac_1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_1/src)
+1. Распаковать проект
 2. Перейдя в дирректорию, в которой находится работа, проверить наличие [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 ```
 java -version
